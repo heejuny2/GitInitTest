@@ -19,6 +19,6 @@
     <p>vscode 에서 git 사용</p>
 
 </body>
-</html>
+</html>;
 
 </code>
